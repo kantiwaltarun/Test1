@@ -2,7 +2,7 @@
 //  SignUpViewController.swift
 //  newProject
 //
-//  Created by Dev Kantiwal on 04/08/22.
+//  Created by Tarun Kantiwal on 04/08/22.
 //
 
 import UIKit
